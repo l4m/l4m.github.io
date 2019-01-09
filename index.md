@@ -7,12 +7,10 @@ We **do work** on the most interesting projects with the best people.
 
 ## Leadership + Growth
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ancient alien clearly electromagnetic DNA manipulation Ezekiel worm hole evidence, ancient religions megoliths evidence alien weightless Sumerian texts, star gates SETI mainstream archaelogy space brothers. The answer is a resounding YES... Ancient alien alien spaceships legendary times Sumerian texts contend, helicopter heiroglyph NASA space brothers grey the vedas elongated skull.
 
 ## Coaching + Culture
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Ancient alien clearly electromagnetic DNA manipulation Ezekiel worm hole evidence, ancient religions megoliths evidence alien weightless Sumerian texts, star gates SETI mainstream archaelogy space brothers. The answer is a resounding YES... Ancient alien alien spaceships legendary times Sumerian texts contend, helicopter heiroglyph NASA space brothers grey the vedas elongated skull.
 
 ![Lunar Lander](/assets/img/apollo-11-lunar-lander.png)
