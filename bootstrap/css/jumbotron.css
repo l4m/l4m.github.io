@@ -1,0 +1,24 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 0;
+}
+
+.jumbotron {
+  background-image: url("../img/milky-way.jpg");
+  background-size: cover;
+  height: 959px;
+}
+
+.milky {
+  color: white;
+}
+
+.black {
+  color: black;
+  background-color: #D9E76C;
+  opacity: 0.7;
+}
+
+footer {
+  padding-bottom: 60px;
+}
